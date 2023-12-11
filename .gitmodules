@@ -1,0 +1,3 @@
+[submodule "app-modules/test"]
+	path = app-modules/test
+	url = https://github.com/ImranSaaSForest/submoduleTest.git
